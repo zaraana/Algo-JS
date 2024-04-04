@@ -1,2 +1,2 @@
 # Algo-JS
-Repo to practis js from scratches
+Repo to practice js from scratches
