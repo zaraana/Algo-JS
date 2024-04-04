@@ -1,3 +1,4 @@
 (() => {
-    // YOUR CODE HERE
+let name = "Zahra";
+console.log(name);
 })();
